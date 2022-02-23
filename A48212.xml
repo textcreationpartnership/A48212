@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to an honourable member of the House of Commons, in the vindication of the Protestant Reformed Church, as established by law, in opposition to the superstitious and idolatrous Church of Rome</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48212</idno>
+            <idno type="STC">Wing L1699</idno>
+            <idno type="STC">ESTC R5726</idno>
+            <idno type="EEBO-CITATION">11795110</idno>
+            <idno type="OCLC">ocm 11795110</idno>
+            <idno type="VID">49291</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48212)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49291)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 540:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to an honourable member of the House of Commons, in the vindication of the Protestant Reformed Church, as established by law, in opposition to the superstitious and idolatrous Church of Rome</title>
+               </titleStmt>
+               <extent>[2], 13 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sold by the Booksellers,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49291:1"/>
+            <pb facs="tcp:49291:1" rendition="simple:additions"/>
+            <p>A LETTER TO AN HONOURABLE MEMBER Of the HOUSE of COMMONS; In the Vindication of The Proteſtant Reformed Church, (as Eſtabliſhed by Law) in Oppoſition to the Superſtitious and Idolatrous <hi>CH<g ref="char:V">Ʋ</g>RCH</hi> of <hi>ROME.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Licenſed,</p>
+                        <closer>
+                           <dateline>
+                              <date>March 1. 1679.</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed, and are to be ſold by the Bookſellers. 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:49291:2"/>
+            <pb n="1" facs="tcp:49291:2"/>
+            <head>A Letter to an Honourable Member of the Houſe of Commons, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IN Obedience to your Commands, I take the bold<g ref="char:EOLhyphen"/>neſs to preſent you with this Paper, giving you a ſmall rough draught of the Nature, and ſeveral Mo<g ref="char:EOLhyphen"/>dels of Government, in a general Notion; and more particularly of the moſt Excellent Conſtitution of Parliaments, in which, after ſome ſort, all Governments are Compriſed: And how at this Juncture of time, this Parliament may be managed with the greateſt Ad<g ref="char:EOLhyphen"/>vantage to the Nation, by the unanimous Concurrence of both Houſes, in order to Enact ſuch good Laws for the Glory of God, and the Preſervation of our <hi>Church</hi> of <hi>England</hi> (as Eſtabliſhed by Law) and of His Ma<g ref="char:EOLhyphen"/>jeſties Royal Perſon and Government, and Kingdoms: craving your pardon for my great freedom in preſent<g ref="char:EOLhyphen"/>ing you, as my worthy Truſtee, with my meaner Sen<g ref="char:EOLhyphen"/>timents, not any way preſuming to ſpeak my Dictates, but my moſt humble Addreſſes, which I ſubmit to your more mature Judgment.</p>
+            <p>All Government (conſiſting in the due Admini<g ref="char:EOLhyphen"/>ſtration of Juſtice, and the Subordination and Obedi<g ref="char:EOLhyphen"/>ence of Inferiour Perſons to Superiour, till we come to a Supreme Authority, accountable to no body but God himſelf) is of Divine Inſtitution, as derived from God
+<pb n="2" facs="tcp:49291:3"/>himſelf, the Fountain of all Power and Authority, Commanding Reverence and Obedience to the San<g ref="char:EOLhyphen"/>ctions and Perſons of Governours, who are more or leſs God's Vice-gerents, as they are intruſted with more or leſs Power.</p>
+            <p>Whereupon, they being in ſome ſort particles of the Divine Nature, are ſtyled Gods in Holy Writ, in refe<g ref="char:EOLhyphen"/>rence to their Royal Functions of their Remunerative and Vindicative Juſtice. And it were to be heartily wiſhed and prayed for, that all Governours, and eſpeci<g ref="char:EOLhyphen"/>ally the Supreme in all Nations, may truly ſo participate of the Divine Nature, that they may be like God in thoſe moſt Excellent Characters of Sanctity and Power, to Influence as well the Souls with vertuous and pious Inclinations, as to Command the Bodies of others by Coereive Laws.</p>
+            <p>The Supreme Power hath divers Qualifications; and is Founded in one in Monarchy, in the beſt in <hi>Ariſtocracy,</hi> and in the People in <hi>Democracy,</hi> which is the worſt of Governments, as it is moſt near to <hi>Anarchy</hi> and Confuſion: and therefore Monarchy is judged the beſt, as it hath moſt of Unity in it, becauſe all Subjects unite in one King, as all Members in one Head, or as Lines in one common Centre: and <hi>Ariſtocracy</hi> is of a middle nature, more de<g ref="char:EOLhyphen"/>generate than <hi>Monarchy,</hi> in that it conſiſteth of many Governours; and more exalted than <hi>Democracy,</hi> becauſe it is framed of the Beſt.</p>
+            <p>And theſe being premiſed, I beg the favour to ſpeak mine own Senſe, which (as I conceive) is that of our Nation, That Parliamentary Government is the beſt Con<g ref="char:EOLhyphen"/>ſtitution of all, becauſe in it all theſe are Compriſed, in the King, and the two Houſes of Parliament, as his Great Council. Firſt, the Government is conſtituted in the King, as Supreme, and ſo it is Monarchical. Secondly, in the Lords, as his greateſt Miniſters; and ſo in ſome de<g ref="char:EOLhyphen"/>gree
+<pb n="3" facs="tcp:49291:3"/>the Government may be ſtyled <hi>Ariſtocratical.</hi> Third<g ref="char:EOLhyphen"/>ly, it is in the Houſe of Commons, as the Repreſentatives of the People, and ſo the Parliamentary Government in ſome manner may be called <hi>Democratical.</hi>
+            </p>
+            <p>Whereupon this kind of Government being united in the King, as the Head and Fountain of it, is moſt excellent and ſatisfactory; becauſe all Intereſts having a ſhare in Go<g ref="char:EOLhyphen"/>vernment, as they are concerned in the Legiſlative Pow<g ref="char:EOLhyphen"/>er, can give ſuch an account of, and make ſuch an Inſpe<g ref="char:EOLhyphen"/>ction into the general Grievances of the Nation, and re<g ref="char:EOLhyphen"/>criſie them by making ſuch ſober Debates, and by delibe<g ref="char:EOLhyphen"/>rate Councils, in the matter of wholeſome Laws; which be<g ref="char:EOLhyphen"/>ing ſtated, are made firſt Bills by the Approbation of both Houſes, and are afterwards recommended to his Majeſty for his Royal Aſſent, as the Eſſence of the Law: The Bills of the Lords and Commons, being only pre<g ref="char:EOLhyphen"/>paratory, as giving the rough Draught of Laws, which are afterwards finiſhed, as receiving their Form, Birth, and Life, from the Kings Royal Signature.</p>
+            <p>Wherefore it is moſt juſt and equitable for the Lords and Commons to pay their Duty and Reverence to the King in their humble Addreſſes to his Majeſty, as their Su<g ref="char:EOLhyphen"/>preme. And I verily believe that the King will again condeſcend (out of his Royal Inclination to do good to his people) to ſpeak his Returns in his Gracious Con<g ref="char:EOLhyphen"/>ceſſions to gratifie the juſt Deſires of his Lords and Com<g ref="char:EOLhyphen"/>mons: who I hope by all means poſſible will endeavour to approve themſelves true Sons of the Proteſtant Church, in bring Pious to God, Loyal to the King, and Juſt to their Truſt repoſed in them, in the Maintenance of the truly ancient reformed Religion of the Church of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> as the moſt excellent for Purity of Doctrine, ac<g ref="char:EOLhyphen"/>cording to Holy Writ, and for Uniformity of Diſcipline as now eſtabliſhed by Law, according to the Practice of the Primitive Church, under which the Church of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi>
+               <pb n="4" facs="tcp:49291:4"/>hath been rendred moſt happy, (even to the Ad<g ref="char:EOLhyphen"/>miration, if not the Envy of other reformed Churches) in the Reign of <hi>Edward</hi> the ſixth, Queen <hi>Elizabeth,</hi> King <hi>James,</hi> King <hi>Charles</hi> the firſt of Bleſſed Memory, and I hope it will yet continue for many years, under the Gra<g ref="char:EOLhyphen"/>cious Protection of our now Sovereign Lord the King; as aſſiſted with the Wiſe, peaceable and healing Councils of the Lords and Commons, now aſſembled in this Parli<g ref="char:EOLhyphen"/>ament, which I ſhall pray may be made effectual, as ſo many wholeſome Applications to heal this diſtracted and bleeding Church and Kingdom; which muſt be now bound up by skilful and tender hands, leſt the Wounds grow wider by their roughneſs and by unexperienſed Medicines, which if improperly applied, will prove de<g ref="char:EOLhyphen"/>ſtructive to the ancient and well approved Conſtitutions of the Church and Kingdom.</p>
+            <p>At this juncture of time, it is humbly conceived to be very dangerous to raiſe Diſputes concerning the Secular and Eccleſiaſtical Polity, which is the ſame or at leaſt the neareſt to that, immediately ſucceeding the Holy Apoſtles.</p>
+            <p>And I deem it alſo very unreaſonable and of ill Conſe<g ref="char:EOLhyphen"/>quence, to charge the humane frailties of the Governour, upon the Government it ſelf; if this Argument were good, a Subverſion (which God forbid) might be attempted upon the moſt excellent Conſtitutions of Monarchy and Epiſcopacy, the Pillars by which the Peace and Happi<g ref="char:EOLhyphen"/>neſs of the Kingdom are ſupported in the Civil and Ec<g ref="char:EOLhyphen"/>cleſiaſtical Government. Nay, if it were lawful to take away the Uſe for the Abuſe of things, Chriſtianity it ſelf, and its moſt holy Ordinances, inſtituted by our moſt Bleſſed Saviour, may be eſtabliſhed, if the great Immora<g ref="char:EOLhyphen"/>lity and Impiety of the prophane, atheiſtical Profeſſors, ſhould be imputed to that moſt Holy and Divine Pro<g ref="char:EOLhyphen"/>feſſion.</p>
+            <p>
+               <pb n="5" facs="tcp:49291:4"/>
+Wherefore it is deſired by all I converſe withal, that the King's Great Council of Lords and Commons would be pleaſed at this Juncture to make no Diſpute with the Governours or Government ſettled by Law, laying aſide all private Differences which (is generally conceived) will tend to the Confuſion and Deſtruction of the Pub<g ref="char:EOLhyphen"/>lick Peace; and it is to be wiſhed, they would emulate the wiſe Oeconomy of Nature, whoſe Parts are ſo well diſpoſed by an Eſſential Wiſdom, in ſo Excellent a Frame and Order, that upon all occaſions they uſe their ut<g ref="char:EOLhyphen"/>moſt Endeavours for a mutual Preſervation; whereupon peculiar Bodies move contrary to their private Inclinati<g ref="char:EOLhyphen"/>ons, Heavy things mounting upward, and Light preſſing downward, to preſerve the Univerſe, in ſecuring its con<g ref="char:EOLhyphen"/>tinued Order from all Interruption and Vacuity.</p>
+            <p>Wherefore it is moſt humbly deſired by Sober men, that the Lords and Commons would be pleaſed to quit all private Picks and Animoſities againſt each other, wa<g ref="char:EOLhyphen"/>ving at this time all Diſputes of Privileges; that the Com<g ref="char:EOLhyphen"/>mons would be pleaſed to give the Lords the right hand of Fellowſhip, as their Elder Brother, and as a High Court of Judicature, conſiſting of great Perſons of Ho<g ref="char:EOLhyphen"/>nour and Fortune, the Prime of the Nation; and on the other ſide, that their Lordſhips would be pleaſed to give the Commons their due Eſteem, as Perſons of Ho<g ref="char:EOLhyphen"/>nour and liberal Education and Fortune, and prin<g ref="char:EOLhyphen"/>cipally as the Repreſentatives of the Body of the Na<g ref="char:EOLhyphen"/>tion.</p>
+            <p>And when any Bills ſhall be offered from the Lords to the Commons, or from them to the Lords, they may have a fair Reception with a mutual Candor and kind Compliance in all Propoſals conſiſtent with Juſtice; and that all Debates, ariſing between the two Houſes, may be ſpeedily determined by candid Conferences, that each of them always eſpouſing Juſtice and the Publick Good of
+<pb n="6" facs="tcp:49291:5"/>the Kingdom, by laying aſide all Faction, and ill Hu<g ref="char:EOLhyphen"/>mour may ſpeak themſelves great and good in the Eſteem of this and other Kingdoms by a Dutiful and Amicable Concurrence with his Majeſty, and with each other; may diſappoint the Expectation of our deadly common Enemies, who have no better Game to play, than the Contriving and fomenting Diviſions, as well between the Lords and Commons, as the Members of each Houſe; for it is very much feared that the <hi>Jeſuits</hi> ſhould ſo blow up the Wild-fire of our indiſcreet Zeal, and firſt put the two Houſes, and then the whole Kingdom into a Flame, which is feared, that nothing but great torrents of Blood can quench, which God of his infinite Mercy Avert, that we may not be made a Prey to our Foreign Ene<g ref="char:EOLhyphen"/>mies: And the proſecution of Juſtice againſt the bloody <hi>Roman</hi> Criminals may not be obſtructed, who have moſt barbarouſly and ungratefully deſigned to murder a moſt gracious King, who out of his great Clemency hath high<g ref="char:EOLhyphen"/>ly indulged them, who have ſpake no better returns than their horrid Endeavours to deſtroy his Sacred Perſon and Authority, and ſubvert his Government, and thereby pull down the beſt conſtituted and moſt Apoſtolick Church in the whole World.</p>
+            <p>And it is very much hoped and earneſtly prayed for that his Majeſty and his high Court of Parliament would be graciouſly pleaſed unanimouſly to joyn together in a well tempered Zeal, acted with Knowledge and Meekneſs to preſerve this once flouriſhing Church and Kingdom in labouring with all Might and Main to oppoſe and countermand, through Gods great Power and Grace, Hell and <hi>Rome,</hi> the Devil and the <hi>Jeſuits,</hi> and their Party: In order to maintain the Purity of Religion, in the true Profeſſion of Chriſt's holy Doctrine, and Ordinances in<g ref="char:EOLhyphen"/>ſtituted by him and his Apoſtles, and revealed in the Ho<g ref="char:EOLhyphen"/>ly Scripture.</p>
+            <p>
+               <pb n="7" facs="tcp:49291:5"/>
+And to Enact ſuch ſound and effectual Laws, to corro<g ref="char:EOLhyphen"/>borate and reinforce by reducing into Execution, thoſe former moſt excellent Sanctions of Parliament, and when they are deficient to make a Suppliment of one or more well digeſted new ones, to render the Popiſh Recuſant Convict. And in reference to it, your Honourable and Learned late Predeceſſors, had prepared divers good Bills, which were rendred fruitleſs by their laſt unhappy Debates, which is hoped you will avoid, as Shelves and Rocks, which occaſioned their Shipwrack.</p>
+            <p>And it is humbly conceived it may ſpeak a great Ad<g ref="char:EOLhyphen"/>vantage to the Publick, to make an Inſpection into thoſe Bills, which coſt ſo much Pains, Time and Conſiderati<g ref="char:EOLhyphen"/>on before they were digeſted; giving all due Reſpect to your Predeceſſors in all which is well done; wherein you will gain a good Opinion for the preſent, and render your ſelves honourable to ſucceeding Parliaments, be<g ref="char:EOLhyphen"/>cauſe ſober men are highly affected with the Recommen<g ref="char:EOLhyphen"/>dation of their Anceſtors, when they have eſpouſed things of Honour and Juſtice: And when they are deficient in theſe, it will become you as, ingenious Gentlemen to be ſilent in not making ſevere Reflections upon dead or ab<g ref="char:EOLhyphen"/>ſent men, who are in no Capacity to vindicate them<g ref="char:EOLhyphen"/>ſelves.</p>
+            <p>Whereupon it is again and moſt humbly deſired by prudent men, who pray for your good Succeſs, that the moſt honourable Court of Parliament would improve their utmoſt Power, and moſt careful Endeavours, ac<g ref="char:EOLhyphen"/>companied with Meekneſs and Charity to each others Perſons, in making candid Interpretation of the Senſe of others, not abounding too much in their own, in giving ſharp Reparties, upon the more grave and profound di<g ref="char:EOLhyphen"/>ctates of others, not receiving with Drollery theſe ratio<g ref="char:EOLhyphen"/>nal and ſober Diſcourſes, which cannot otherwiſe be an<g ref="char:EOLhyphen"/>ſwered by their more ſhallow parts.</p>
+            <p>
+               <pb n="8" facs="tcp:49291:6"/>
+And it is to be wiſhed that all due Encouragement be given to thoſe, whoſe minds are acted with great Hone<g ref="char:EOLhyphen"/>ſty and Integrity, though their meaner Education hath denied them the Advantage of clothing their hearty and ingenuous Sentiments, with polite and elegant Lan<g ref="char:EOLhyphen"/>guage.</p>
+            <p>That every Member may ſpeak himſelf a Gentleman, and a Chriſtian, by entertaining an humble Opinion of his own, may give a due value to the Parts and Perſons of others, that by an inoffenſive Deportment to one ano<g ref="char:EOLhyphen"/>ther, and by abſtaining from all ill tempered Zeal, you may keep ſo fair with Government and Governours eſta<g ref="char:EOLhyphen"/>bliſhed by Law, that all the Members having a great A<g ref="char:EOLhyphen"/>greement and good Underſtanding, may moſt vigorouſly and unanimouſly unite againſt the moſt dangerous, inſo<g ref="char:EOLhyphen"/>lent, and malicious Romaniſts, acted with Jeſuitical Prin<g ref="char:EOLhyphen"/>ciples, holding the third <hi>Literan</hi> and other more modern Councils, who give a Power to the <hi>Pope</hi> to excommuni<g ref="char:EOLhyphen"/>cate and depoſe Kings, and conferr their Kingdomes on whom they pleaſe; aſſuming a Power of murdering Kings and Princes, or any Magiſtrate and Perſons of a diſſent<g ref="char:EOLhyphen"/>ing Faith, to promote their Phanatick Religion, contrary to the holy Precepts and Practice of our Bleſſed Saviour, who gave his Commands to render to <hi>Caeſar</hi> the things that are <hi>Caeſar's,</hi> paying Tribute to him through an infi<g ref="char:EOLhyphen"/>del Emperour, thereby conſuming his own Ordinance of Magiſtracy as God, and by paying his Homage of Tri<g ref="char:EOLhyphen"/>bute (due from him as man) to <hi>Caeſar</hi> the ſupream Power.</p>
+            <p>But theſe <hi>Ignatian Loyoliſts</hi> do very much derogate from Gods Great Attributes of Juſtice and Sanctity, while they contend to promote their pretended Catholick Cauſe and Religion, by moſt prodigious Enormities of Immora<g ref="char:EOLhyphen"/>lity and Impiety, running quite countre to our Bleſſed Sa<g ref="char:EOLhyphen"/>viour's Holy Evangelical Precepts, which Refine, and Eſta<g ref="char:EOLhyphen"/>bliſh,
+<pb n="9" facs="tcp:49291:6"/>and no way Vitiate and Deſtroy the Moral Law.</p>
+            <p>Theſe horrid Supererogators do ſeem (with Reverence be it ſpoken) to out-act the moſt Holy Law-giver, while by different Rules and Practices, they ſet up their Own, and not His Kingdom; while they enlarge the ſtraight gate of Heaven, by forcing their Diſciples and Proſelytes to Enter in by Treaſon and Murder, and other horrid Crimes, and by giving Abſolution without Repentance, and damning them Eternally (as they make them believe) if they make Publick Confeſſion of their Crimes at the time of their Suffering as Malefactors; making themſelves juſt, do in a manner moſt impiouſly condemn their Maker) as putting upon him to receive the unjuſt Criminals into his Glory without publick Confeſſion and Repentance; whereupon they make their Works meritorious, and ca<g ref="char:EOLhyphen"/>nonize Miſcreants, for Saints, who are juſtly condemned and executed as Traytors and Murderers.</p>
+            <p>Wherefore it is moſt ſuitable to the Principles of Rea<g ref="char:EOLhyphen"/>ſon and Religion in a holy Faith and a flaming Zeal to offer our own Hands, and Hearts to Almighty God our heavenly Father, and the Holy Jeſus, our moſt gracious Redeemer, ſo to fortifie us with the ſupernatural Aſſi<g ref="char:EOLhyphen"/>ſtance of his Holy Spirit, that we may chooſe rather to embrace the gentler flames of Fire and Faggot here, than enter into more horrid everlaſting Burnings hereafter; and by his Grace rather to reſiſt unto Blood, than enter in<g ref="char:EOLhyphen"/>to Communion with thoſe Monſters of Religion who eat their God; and moſt patiently to ſubmit our ſelves to the higheſt Torments imaginable, rather than proſtitute our ſelves to the Idol of <hi>Maſs,</hi> wherein they contrary to di<g ref="char:EOLhyphen"/>vine Writ offer up the Holy Jeſus many times a day, as a propitiatory Sacrifice, who was once for all offered upon the Croſs, for the Sins of the whole World.</p>
+            <p>
+               <pb n="10" facs="tcp:49291:7"/>
+And I do moſt truly profeſs, from my very Heart and Soul, I had rather be Maſſacred ten thouſand times, if I had ſo many Lives to loſe, and be barbarouſly made an Example of their moſt ſevere Malice expreſſed upon me in the higheſt Torture imaginable, (ever reſigning my ſelf by Faith and Patience into my Redeemer's hands) rather thou forfeit my Soul, Conſcience, and Religion, in a baſe Compliance with them, in their groſs Superſtition and Idolatry, in the Adoration of the Hoſt, and in hold<g ref="char:EOLhyphen"/>ing the Element of Bread and Wine in the Holy Eucha<g ref="char:EOLhyphen"/>riſt (after Conſecration) to be the Natural Body and Blood of Chriſt, contrary to all Senſe and Philoſophy, and the Words of our Bleſſed Saviour, who calleth the Wine the fruit of the Vine, after Conſecration; where<g ref="char:EOLhyphen"/>upon we have great Authority to believe, that the Bread and Wine do not ſo loſe their own Nature, as to be turn'd into moſt different Natural and Corporeal Subſtances, but after a moſt Divine manner made the Body and Blood of Chriſt, which is moſt really and Spiritually conveyed to a Worthy Communicant by Faith.</p>
+            <p>And perhaps they of a different Perſwaſion will raſhly judge me not to be a Worthy Communicant, becauſe I am ſo Uncharitable; which is their harſh Cenſure (as I humbly conceive) and not my juſt Errour, becauſe at the Reception of the Euchariſt, I do ſtrictly Examine my Con<g ref="char:EOLhyphen"/>ſcience, according to rectified Reaſon, and the more Ex<g ref="char:EOLhyphen"/>cellent Sanctions of Divine Writ, as the moſt exact Rule to Examin and Inform our Conſciences by. And if they ſhall pleaſe in Fraternal correction to Convince me of my Errours, out of thoſe moſt pure and ſolid grounds of Re<g ref="char:EOLhyphen"/>ligion: I do here moſt faithfully promiſe, that I will rea<g ref="char:EOLhyphen"/>dily ſubmit my ſelf to the Truth, ever praying, that God my Heavenly Father, would be pleaſed in his Grace to Direct, Govern, and Sanctifie me with his moſt Holy Spi<g ref="char:EOLhyphen"/>rit,
+<pb n="11" facs="tcp:49291:7"/>in the great Moments of his Glory, and my own Ever<g ref="char:EOLhyphen"/>laſting Salvation; that I may learn to quit all my Private Intereſt, and Judgment, and Prejudice whatſoever, that ſtands in oppoſition to his moſt Holy Will.</p>
+            <p>And I am ſure, that all the Sons of the Church of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> have ſo great a Charity for the <hi>Roman</hi> Diſſenters, a great, if not the greateſt part (the Jeſuits and their Diſci<g ref="char:EOLhyphen"/>ples excepted) being Perſons of great Honour and Ju<g ref="char:EOLhyphen"/>ſtice, and would not do a baſe thing to gain the World: therefore let us heartily pray, and uſe our utmoſt Intereſt and endeavours, to promote their Converſion to the tru<g ref="char:EOLhyphen"/>ly C<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>holick Apoſtolick F<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith, much better than the <hi>Roman,</hi> falſely ſo called; and it is highly hoped and pray<g ref="char:EOLhyphen"/>ed for, that th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> High Court of Parliament would be plea<g ref="char:EOLhyphen"/>ſed to Order ſome moſt able Clergy to inſtruct them, as their Spiritual Guides, and to make proviſion for poor Converts, that they may have all due encouragement to enter into Communion with our Church, and that all true Converts may freely enjoy all the Liberties and Pri<g ref="char:EOLhyphen"/>vileges belonging to this, and moſt fervently praying that they at laſt may participate of the Eternal Glory of that more Excell<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt Kingdom.</p>
+            <p>And becauſe Chriſt, the moſt Juſt and Holy Law-gi<g ref="char:EOLhyphen"/>ver, hath commanded us to render to <hi>Caeſar</hi> the things that are <hi>Caeſar's,</hi> let us pay the King the Tribute of our Fortunes, it being our Intereſt as well as Duty, to ſup<g ref="char:EOLhyphen"/>port his Stat<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and our ſelves in his Government; that he bear not the Sword in vain, let us ſtrengthen his Arm, and render him able to Protect us in our Extremity: let us therefore give his Majeſty, with a loyal Heart, and an open Hand, ſuch Supplies that are ſuitable to his Juſt and Great Occaſions, that he may be made capable to Defend the True Catholick Church and Faith, His Royal Perſon and Authority, and the Laws and Liberties of his People committed to his Charge, in oppoſition to
+<pb n="12" facs="tcp:49291:8"/>all Domeſtick and Foreign Enemies, who threaten Fire and Faggot, and bloody Maſſacres to all good Chriſtians, and an utter ruine to the Church, and Kingly Power and Government, as now Eſtabliſhed by Law, and a final De<g ref="char:EOLhyphen"/>ſolation to the whole Kingdom.</p>
+            <p>And according to his moſt Holy Precept, above all, let us render to God the things that are Gods; that his Glo<g ref="char:EOLhyphen"/>ry may be declared by us in the Adoration of his moſt Holy Attributes, and in our Obedience to his moſt Sacred Commands; which that they may be moſt Religiouſly obſerved, let ſuch Effectual Penal Laws be Enacted, or brought into Execution, which concern the ſtrict obſer<g ref="char:EOLhyphen"/>vance of the Lords Day, and ſuch due ſevere Puniſh<g ref="char:EOLhyphen"/>ments may be Inflicted upon irreligious and prophane De<g ref="char:EOLhyphen"/>bauchees, for Blaſphemy, Atheiſm, Swearing, Perjury, Drunkenneſs, and other reigning Sins of our Nation; that God out of his infinite Mercy would pardon our Enormous Offences and Tranſgreſſions: And therein bleſs his Majeſty, and his Great Council of Parliament, and all his People committed to his Care and Protection: That Gods moſt Sacred Name may be ever Glorified, and we made partakers of Peace and Happineſs here, and Eternal Felicity hereafter. And in reference to it, it is humbly deſired by all Sober and Religious men, that the Lords and Commons would be pleaſed to make joynt and humble Addreſſes to the King, to Command Faſts to be Inſtituted and Obſerved every Month; that Prayers and Supplications be made for the Church, the King, and his Great Council of Parliament, and for all in Authority, and all the People of his Realms; for the atonement of our Sins, and the full Diſcovery of the Plots, and preſervation of the Perſons of the <hi>Roman</hi> Diſſenters, in their Con<g ref="char:EOLhyphen"/>verſion to the True Chriſtian Faith.</p>
+            <p>And to this end let us humble our ſelves in Weeping, Faſting and Prayer, and faithfully embrace that excellent
+<pb n="13" facs="tcp:49291:8"/>Precept of our Saviour, in denying our ſelves, in the Mortification of our ſenſual Appetites, that our outward man, by ſeveral ſteps and periods of crucifying our ſinful Luſts, be reſigned to the intire Dominion of our Soules. And that we may take up his Croſs in the patient ſub<g ref="char:EOLhyphen"/>miſſion of our Wills to his moſt holy Will; and in all our Troubles and Afflictions ever kiſs the Rod, and his gen<g ref="char:EOLhyphen"/>tle hand of Correction; and by following him in his Ho<g ref="char:EOLhyphen"/>ly Precepts and Example, may write after his Divine Co<g ref="char:EOLhyphen"/>py by our Imitation of him in the Holy Flames of Devo<g ref="char:EOLhyphen"/>tion in Prayer, in a well tempered Zeal with Meekneſs and Knowledge, in a patience elevated with Charity to our Enemies: ever reſigning our ſelves by a moſt ſtrong and lively Faith, in all our Trials and Sufferings, into his moſt gracious hands; humbly proſtrating our ſelves with a filial Fear and Reverence at the Feet of our great and Glorious Creator, Preſerver and Redeemer; moſt fervently imploring his Bleſſing in all the Offices of his Mediator<g ref="char:EOLhyphen"/>ſhip, that he as a King, would Govern, Protect, and re<g ref="char:EOLhyphen"/>ward us; and as a Prophet, would teach and inſtruct us in the Ways of Truth, Peace and Salvation: And as a Prieſt, having once ſacrificed himſelf upon the Altar of the Croſs, and now ſitting at the right hand of God in Heaven, would intercede for us in the Pardon of all our Sins here, and at laſt graciouſly preſent our Soules and Bodies without Spot and Wrinckle to his heavenly Fa<g ref="char:EOLhyphen"/>ther, at that great day of his coming to Judgment.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
